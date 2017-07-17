@@ -1,0 +1,22 @@
+a=3
+For n=1, Integral=0.136954
+
+For n=2, Integral=0.089139
+For n=3, Integral=0.065917
+For n=4, Integral=0.052248
+For n=5, Integral=0.043256
+For n=6, Integral=0.036897
+For n=7, Integral=0.032165
+For n=8, Integral=0.028506
+For n=9, Integral=0.025593
+For n=10, Integral=0.023220
+
+For n=2, Numerical Integral=0.089126
+For n=3, Numerical Integral=0.065905
+For n=4, Numerical Integral=0.052235
+For n=5, Numerical Integral=0.043244
+For n=6, Numerical Integral=0.036885
+For n=7, Numerical Integral=0.032152
+For n=8, Numerical Integral=0.028493
+For n=9, Numerical Integral=0.025581
+For n=10, Numerical Integral=0.023208

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1373978179 source:c:\documents and settings\user\my documents\c++\tally\main.cpp
+	<iostream>
+	<string>
+

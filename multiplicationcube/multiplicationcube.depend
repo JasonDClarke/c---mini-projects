@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1374251447 source:c:\documents and settings\user\my documents\c++\multiplicationcube\array3d.cpp
+	"array3d.h"
+
+1374250868 c:\documents and settings\user\my documents\c++\multiplicationcube\array3d.h
+
+1374250783 source:c:\documents and settings\user\my documents\c++\multiplicationcube\calculate.cpp
+	"calculate.h"
+
+1374250726 c:\documents and settings\user\my documents\c++\multiplicationcube\calculate.h
+
+1374250843 source:c:\documents and settings\user\my documents\c++\multiplicationcube\main.cpp
+	<iostream>
+	"calculate.h"
+	"array3d.h"
+

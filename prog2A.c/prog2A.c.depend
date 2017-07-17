@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1382112978 source:c:\documents and settings\user\my documents\c++\prog2a.c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

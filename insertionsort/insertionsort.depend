@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1374139256 source:c:\documents and settings\user\my documents\c++\insertionsort\main.cpp
+	<cstdlib>
+	<ctime>
+	<iostream>
+

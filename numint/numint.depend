@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1384290990 source:c:\documents and settings\user\my documents\c++\numint\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

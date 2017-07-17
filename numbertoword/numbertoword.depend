@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1374070029 source:c:\documents and settings\user\my documents\c++\numbertoword\main.cpp
+	<iostream>
+	<string.h>
+	<string>
+

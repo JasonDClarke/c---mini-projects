@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1374132935 source:c:\documents and settings\user\my documents\c++\funzy\main.cpp
+	<ctime>
+	<cstdlib>
+	<iostream>
+
